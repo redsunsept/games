@@ -23,7 +23,7 @@ function main(context) {
     queryPath: findGame,
     supportedTools: [],
     queryModPath: () => '.',
-    logo: '',
+    logo: 'gameart.jpg',
     executable: () => GAME_BIN,
     requiredFiles: [
       GAME_BIN,
